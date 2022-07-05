@@ -4,8 +4,8 @@ Farbpalette
 Rot
 Grün
 Blau
-{Hellbalu}
-{Dukelblau}
+Hellgrün
+Dukelgrün
 Gelb
 Magenta
 
